@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/display_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/heading_text"
+        android:layout_marginTop="@dimen/top"
+        android:layout_marginLeft="@dimen/left"
+        android:layout_marginRight="@dimen/right"/>
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/display_name"
+        android:textSize="@dimen/normal_text"
+        android:layout_marginTop="@dimen/top"
+        android:layout_marginLeft="@dimen/left"
+        android:layout_marginRight="@dimen/right"
+        android:text="@string/time_data"/>
+
+    <TextView
+        android:id="@+id/amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/time"
+        android:layout_marginTop="@dimen/top"
+        android:layout_marginLeft="@dimen/left"
+        android:layout_marginBottom="@dimen/bottom"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/engagement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/time"
+        android:layout_toRightOf="@id/amount"
+        android:layout_marginTop="@dimen/top"
+        android:layout_marginLeft="@dimen/far"
+        android:layout_marginBottom="@dimen/bottom"
+        android:text="@string/engagement_data"/>
+
+    <TextView
+        android:id="@+id/active_users"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/time"
+        android:layout_toRightOf="@+id/engagement"
+        android:layout_marginTop="@dimen/top"
+        android:layout_marginLeft="@dimen/far"
+        android:layout_marginBottom="@dimen/bottom"
+        android:text="@string/active_users_data"/>
+
+</RelativeLayout>

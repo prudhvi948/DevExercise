@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\prudhvi\Desktop\DevExercise\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5.1-6ea64ea631fb854f2f50561a538fb7319b5c53de.jar"
+        jar="C:\Users\prudhvi\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e"/>
+    <item
+        dex="C:\Users\prudhvi\Desktop\DevExercise\app\build\intermediates\pre-dexed\debug\shinobicharts-android-trial-1.7.1-1-a4e075256b490fcc554a04ccd66c4c42f6f2476d.jar"
+        jar="C:\Users\prudhvi\Desktop\DevExercise\build\intermediates\exploded-aar\DevExercise\shinobichartsandroidlibrary\unspecified\libs\shinobicharts-android-trial-1.7.1-1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2e747ef8d557c8eabfd6a29f332c7537fddf357"/>
+    <item
+        dex="C:\Users\prudhvi\Desktop\DevExercise\app\build\intermediates\pre-dexed\debug\classes-ae38f0dc2e620e9f31a8c6e4290c9adb6eea213c.jar"
+        jar="C:\Users\prudhvi\Desktop\DevExercise\build\intermediates\exploded-aar\DevExercise\shinobichartsandroidlibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5016596018cdb2ecddca6ba86c975552fdd8591b"/>
+    <item
+        dex="C:\Users\prudhvi\Desktop\DevExercise\app\build\intermediates\pre-dexed\debug\gson-2.3.1-9e73014ef7392ec634ddb3d5ef57516afc005316.jar"
+        jar="C:\Users\prudhvi\Desktop\DevExercise\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757"/>
+
+</pre-dex-items>
